@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### 
 <!--
 **vagnerac/vagnerac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<div align=center>
+  <img src="https://raw.githubusercontent.com/vagnerac/vagnerac/main/image.png">
+</div>
 
 Hi there! I am Vagner Coelho, a Full Stack Developer.
 
