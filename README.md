@@ -30,7 +30,7 @@ const vagner = {
             css: ["Bootstrap"]
         },
         backEnd: {
-            js: ["Node.JS", "MySQL"]
+            js: ["Node.JS", "Typescript", "MySQL"]
         }
     }
 };
@@ -53,6 +53,7 @@ const vagner = {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40px" />
 </div>
 <div>
 
