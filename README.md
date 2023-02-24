@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/vagnerac/vagnerac/main/image.png">
 </div>
 
-Hi there! I am Vagner Coelho, a Full Stack Developer.
+Hi there! I am Vagner Coelho, a Backend Developer.
 
 ```javascript
 const vagner = {
@@ -55,9 +55,21 @@ const vagner = {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40px" />
 </div>
+  
+##
+  <div align=center>
+    <a href="https://www.linkedin.com/in/vagneramorim">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+        <a href="mailto:vagner.amorim@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" />
+    </a>
+</div>
 <div>
 
 </div>
+
+
 
 
 
