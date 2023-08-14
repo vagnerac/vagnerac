@@ -23,8 +23,8 @@ Hi there! I am Vagner Coelho, a Backend Developer.
 ```javascript
 const vagner = {
     pronouns: "he" | "him",
-    aboutMe: ["family", "devlopment", "crypto", "technology", "coffee"],
-    coding: [Javascript, HTML, CSS, Crypto, Blockchain, ERP],
+    aboutMe: ["family", "development", "crypto", "technology", "coffee"],
+    coding: [Javascript, HTML, CSS, Crypto, Blockchain, Web3, ERP],
     technologies: {
         frontEnd: {
             css: ["Bootstrap"]
